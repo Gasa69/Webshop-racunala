@@ -63,7 +63,7 @@ document.getElementById("contactForm").addEventListener("submit", function(event
     }
   });
 
-// Dohvati modal
+// Dohvati modale
 var modal = document.getElementById('id01');
 
 // Zatvaranje
